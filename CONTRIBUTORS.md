@@ -3,4 +3,4 @@ Add your name to the list below, and send a PR
 
 | Name | Github profile | 
 |:----:|:--------------:|
-| Angad Sharma | [L04DB4L4NC3R](https://github.com/L04DB4L4NC3R) |
+| Kush Choudhary | [d-e-f-e-a-t](https://github.com/d-e-f-e-a-t) |
