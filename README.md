@@ -1,3 +1,5 @@
+</br> Auto Merge is Active </br>
+
 <p align="center">
     <img src="./static/logo.png" />
 </p>
