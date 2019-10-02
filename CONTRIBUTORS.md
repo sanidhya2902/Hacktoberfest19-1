@@ -12,4 +12,5 @@ Add your name to the list below, and send a PR
 | Mihir Soni | [mihirsoni826](https://github.com/mihirsoni826) |
 | Udai Agarwal | [UdaiAgarwal](https://github.com/UdaiAgarwal) |
 | Vaibhav Bhardwaj | [vaibhavbhj](https://github.com/vaibhavbhj) |
+| Pranav Mahajan | [pranav3798](https://github.com/pranav3798) |
 
