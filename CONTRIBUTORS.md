@@ -10,3 +10,4 @@ Add your name to the list below, and send a PR
 | JUssara | [jussararodrigues](https://github.com/jussararodrigues) |
 | Sambhav Jain| [sambhav2448](https://github.com/sambhav2448)
 | Mihir Soni | [mihirsoni826](https://github.com/mihirsoni826) |
+| Udai Agarwal | [UdaiAgarwal](https://github.com/UdaiAgarwal) |
