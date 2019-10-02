@@ -14,3 +14,4 @@ Add your name to the list below, and send a PR
 | Vaibhav Bhardwaj | [vaibhavbhj](https://github.com/vaibhavbhj) |
 | Pranav Mahajan | [pranav3798](https://github.com/pranav3798) |
 | Arpit Bhattar | [aptbhattar](https://github.com/aptbhattar) |
+| Code Bhal | [aptbhattar](https://github.com/bhal) |
