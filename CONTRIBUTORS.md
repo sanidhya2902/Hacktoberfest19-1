@@ -15,8 +15,6 @@ Add your name to the list below, and send a PR
 | Pranav Mahajan | [pranav3798](https://github.com/pranav3798) |
 | Arpit Bhattar | [aptbhattar](https://github.com/aptbhattar) |
 | Code Bhal | [aptbhattar](https://github.com/bhal) |
-
+| Kunal S | [kunal-sanghvi](https://github.com/kunal-sanghvi) |
 | Sriram Iyer | [ramiyer1998](https://github.com/ramiyer1998) |
-
 | Elfin Sanjaya | [elfinsanjaya12](https://github.com/elfinsanjaya12) |
-
