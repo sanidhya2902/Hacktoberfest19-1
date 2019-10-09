@@ -19,4 +19,4 @@ Add your name to the list below, and send a PR
 | Sriram Iyer | [ramiyer1998](https://github.com/ramiyer1998) |
 | Elfin Sanjaya | [elfinsanjaya12](https://github.com/elfinsanjaya12) |
 | Yusuf Adefolahan | [sanxy](https://github.com/sanxy) |
-| Sarthak Agrawal | [sanxy](https://github.com/sarthakagrawal9128) |
+| Sarthak Agrawal | [sarthakagrawal9128](https://github.com/sarthakagrawal9128) |
