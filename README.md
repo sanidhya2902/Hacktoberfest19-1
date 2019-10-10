@@ -1,4 +1,4 @@
-</br> Auto Merge is Active </br>
+</br> Auto Merge is Active - In case of conflict it maytake 30+ hours to Merge</br>
 
 <p align="center">
     <img src="./static/logo.png" />
