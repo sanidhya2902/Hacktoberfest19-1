@@ -22,4 +22,5 @@ Add your name to the list below, and send a PR
 | Sarthak Agrawal | [sarthakagrawal9128](https://github.com/sarthakagrawal9128) |
 | Sam Srivastava | [samriddhi-99](https://github.com/samriddhi-99) |
 | Sunandan Chakrabarti | [SunandanChakrabarti](https://github.com/SunandanChakrabarti) |
+| Tanveer singh | [Tanveer singh](https://github.com/tanveer7) |
 | Aditi T | [mystic-potato](https://github.com/mystic-potato) |
