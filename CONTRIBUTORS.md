@@ -28,4 +28,4 @@ Add your name to the list below, and send a PR
 | Gunish Jain | [gunishjain](https://github.com/gunishjain) |
 | Manav Yadav | [manavy1998] (https://github.com/manavy1998) |
 | Shikhar Mathur | [shikharmat99](https://github.com/shikharmat99) |
-| Siddhant | [Siddhant312](https://github.com/Siddhant312) |
+| Siddhant Mathur | [Siddhant312](https://github.com/Siddhant312) |
