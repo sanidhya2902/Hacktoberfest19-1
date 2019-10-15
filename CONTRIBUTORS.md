@@ -30,3 +30,4 @@ Add your name to the list below, and send a PR
 | Shikhar Mathur | [shikharmat99](https://github.com/shikharmat99) |
 | Siddhant Mathur | [Siddhant312](https://github.com/Siddhant312) |
 | Cap'n Pointy | [cappoint](https://github.com/cappoint) |
+| Harry Potter | [heripotir](https://github.com/heripotir) |
