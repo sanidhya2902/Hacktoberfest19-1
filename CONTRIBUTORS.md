@@ -32,3 +32,4 @@ Add your name to the list below, and send a PR
 | Cap'n Pointy | [cappoint](https://github.com/cappoint) |
 | Harry Potter | [heripotir](https://github.com/heripotir) |
 | Iishi Patel  | [iishipatel](https://github.com/iishipatel) |
+| Tamer  | [toznyigit](https://github.com/toznyigit) |
