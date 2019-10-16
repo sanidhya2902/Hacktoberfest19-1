@@ -33,3 +33,5 @@ Add your name to the list below, and send a PR
 | Harry Potter | [heripotir](https://github.com/heripotir) |
 | Iishi Patel  | [iishipatel](https://github.com/iishipatel) |
 | Tamer  | [toznyigit](https://github.com/toznyigit) |
+| Dada Abdulrasheed  | [iamhabee](https://github.com/iamhabee) |
+| Demir Baş  | [ironhead690](https://github.com/ironhead690) |
