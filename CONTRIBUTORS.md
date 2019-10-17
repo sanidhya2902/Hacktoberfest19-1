@@ -36,3 +36,4 @@ Add your name to the list below, and send a PR
 | Dada Abdulrasheed  | [iamhabee](https://github.com/iamhabee) |
 | Demir Baş  | [ironhead690](https://github.com/ironhead690) |
 | M. Fari Madyan | [MuhammadFariMadyan](https://github.com/MuhammadFariMadyan) |
+| Sanidhya Sehgal | [sanidhya2902](https://github.com/sanidhya2902) |
