@@ -35,3 +35,4 @@ Add your name to the list below, and send a PR
 | Tamer  | [toznyigit](https://github.com/toznyigit) |
 | Dada Abdulrasheed  | [iamhabee](https://github.com/iamhabee) |
 | Demir Baş  | [ironhead690](https://github.com/ironhead690) |
+| M. Fari Madyan | [MuhammadFariMadyan](https://github.com/MuhammadFariMadyan) |
